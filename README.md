@@ -1,6 +1,3 @@
-# Financial-dashboard
- financial dashboard using World Bank API data. Dashboard will cover key economic indicators like GDP, imports, exports, demographics, and more for multiple countries.  Key Components:  GDP Tracking Import/Export Statistics Product Analysis Population Demographics Optional Portfolio Analysis About Section
-
 # Financial Dashboard Integration - World Bank API
 
 ## Overview
@@ -29,12 +26,11 @@ This project aims to create a comprehensive financial dashboard using data from 
 - Explore data visualizations and insights
 
 ## Contributors
-- [Your Name] - Project Lead
-- [Contributor 1]
-- [Contributor 2]
+- Malik Muhammad Zeeshan  - Project Lead
+
 
 ## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Special thanks to the World Bank API for providing access to valuable economic data.
