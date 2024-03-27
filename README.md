@@ -27,6 +27,7 @@ This project aims to create a comprehensive financial dashboard using data from 
 
 ## Contributors
 - Malik Muhammad Zeeshan  - Project Lead
+- Machine learning Engineer and Data Scientist
 
 
 ## License
