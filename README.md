@@ -2,6 +2,7 @@
 
 ## Overview
 This project aims to create a comprehensive financial dashboard using data from the World Bank API. It provides detailed insights into key economic indicators for various countries and regions.
+![Alt Text](./images/myimage.png)
 
 ## Key Features
 - GDP Tracking
