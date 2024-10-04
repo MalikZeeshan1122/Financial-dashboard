@@ -3,7 +3,7 @@
 ## Overview
 This project aims to create a comprehensive financial dashboard using data from the World Bank API. It provides detailed insights into key economic indicators for various countries and regions.
 ![Alt Text](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.42.05_fe6ba686.jpg)
-[Alt Text](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.45.26_f2ea9dac.jpg)
+![Alt Text](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.45.26_f2ea9dac.jpg)
 ## Key Features
 - GDP Tracking
 - Import/Export Statistics
