@@ -7,7 +7,7 @@
 ---
 
 ## 📊 Overview  
-**FinSight** is a comprehensive financial dashboard leveraging the World Bank API to visualize global economic indicators. It provides users with actionable insights across key areas like GDP, trade, population, and more.
+**FinSight** is a financial data visualization dashboard built with Python and powered by the World Bank API. It helps users explore and analyze key global economic indicators such as GDP, trade metrics, demographics, and more.
 
 ![Dashboard Screenshot 1](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.42.05_fe6ba686.jpg)  
 ![Dashboard Screenshot 2](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.45.26_f2ea9dac.jpg)
@@ -15,38 +15,60 @@
 ---
 
 ## ✅ Key Features  
-- 📈 **GDP Tracking** – Visualize global economic growth trends  
-- 🌍 **Import/Export Statistics** – Evaluate trade metrics by region  
-- 🛍️ **Product Analysis** – Sector and industry-specific insights  
-- 👥 **Population Demographics** – Analyze population dynamics  
-- 💼 **Portfolio Insights (Optional)** – Compare across regions and time
+- 📈 **GDP Tracking** – Analyze global economic trends  
+- 🌍 **Import/Export Statistics** – Track country-level trade data  
+- 🛍️ **Product Analysis** – Visualize economic sector performance  
+- 👥 **Population Demographics** – Compare population dynamics  
+- 💼 **Portfolio Insights (Optional)** – Multi-country and year-over-year analysis
 
 ---
 
 ## 🧰 Tech Stack  
-- **Frontend**: React.js  
-- **API Integration**: World Bank Open Data API  
-- **Charts**: Chart.js / Recharts  
-- **Styling**: CSS / Tailwind (optional)  
-- **Deployment**: Localhost or any static hosting (e.g., Vercel, Netlify)
+- **Language**: Python  
+- **Dashboard Framework**: Streamlit  
+- **API Access**: World Bank API (via `wbdata`, `pandas-datareader`, or custom requests)  
+- **Visualization**: Plotly, Matplotlib, Seaborn  
+- **Data Handling**: Pandas, NumPy  
+- **Deployment**: Streamlit Cloud / Localhost
 
 ---
 
 ## 🛠️ Requirements  
-- JavaScript / React knowledge  
-- Familiarity with REST APIs  
-- Understanding of data visualization techniques
+Install all dependencies from `requirements.txt` using:
 
----
-
-## 🚀 Installation  
 ```bash
+pip install -r requirements.txt
+
 # Clone the repository
 git clone https://github.com/MalikZeeshan1122/Financial-dashboard.git
 cd Financial-dashboard
 
-# Install dependencies
-npm install
+# Install Python dependencies
+pip install -r requirements.txt
 
-# Start the development server
-npm start
+# Run the Streamlit dashboard
+streamlit run app.py
+
+💻 Usage
+Open the dashboard in your browser
+
+Select countries and indicators
+
+Explore real-time financial insights with visual charts
+
+/Financial-dashboard
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── /images
+├── /components
+└── /data
+
+👨‍💻 Author
+Malik Muhammad Zeeshan
+Machine Learning Engineer | Data Scientist
+
+📧 Email: malikzeeshan3.1417@gmail.com
+🔗 LinkedIn: linkedin.com/in/muhammadzeeshan007/
+🐙 GitHub: MalikZeeshan1122
