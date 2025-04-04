@@ -1,39 +1,52 @@
-# Financial Dashboard Integration - World Bank API
+# 🌐 FinSight – Financial Dashboard Powered by World Bank API
 
-## Overview
-This project aims to create a comprehensive financial dashboard using data from the World Bank API. It provides detailed insights into key economic indicators for various countries and regions.
-![Alt Text](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.42.05_fe6ba686.jpg)
-![Alt Text](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.45.26_f2ea9dac.jpg)
-## Key Features
-- GDP Tracking
-- Import/Export Statistics
-- Product Analysis
-- Population Demographics
-- Portfolio Analysis (Optional)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/MalikZeeshan1122/Financial-dashboard?style=social)](https://github.com/MalikZeeshan1122/Financial-dashboard/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/MalikZeeshan1122/Financial-dashboard?style=social)](https://github.com/MalikZeeshan1122/Financial-dashboard/network)
 
-## Requirements
-- Proficiency in World Bank API integration
-- Experience in dashboard development
-- Strong data visualization skills
+---
 
-## Installation
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Start the server: `npm start`
+## 📊 Overview  
+**FinSight** is a comprehensive financial dashboard leveraging the World Bank API to visualize global economic indicators. It provides users with actionable insights across key areas like GDP, trade, population, and more.
 
-## Usage
-- Access the dashboard at [link]
-- Select desired indicators and countries for analysis
-- Explore data visualizations and insights
+![Dashboard Screenshot 1](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.42.05_fe6ba686.jpg)  
+![Dashboard Screenshot 2](https://github.com/MalikZeeshan1122/Financial-dashboard/blob/main/WhatsApp%20Image%202024-05-10%20at%2023.45.26_f2ea9dac.jpg)
 
-## Contributors
-- Malik Muhammad Zeeshan  - Project Lead
-- Machine learning Engineer and Data Scientist
+---
 
+## ✅ Key Features  
+- 📈 **GDP Tracking** – Visualize global economic growth trends  
+- 🌍 **Import/Export Statistics** – Evaluate trade metrics by region  
+- 🛍️ **Product Analysis** – Sector and industry-specific insights  
+- 👥 **Population Demographics** – Analyze population dynamics  
+- 💼 **Portfolio Insights (Optional)** – Compare across regions and time
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
 
-## Acknowledgments
-- Special thanks to the World Bank API for providing access to valuable economic data.
+## 🧰 Tech Stack  
+- **Frontend**: React.js  
+- **API Integration**: World Bank Open Data API  
+- **Charts**: Chart.js / Recharts  
+- **Styling**: CSS / Tailwind (optional)  
+- **Deployment**: Localhost or any static hosting (e.g., Vercel, Netlify)
 
+---
+
+## 🛠️ Requirements  
+- JavaScript / React knowledge  
+- Familiarity with REST APIs  
+- Understanding of data visualization techniques
+
+---
+
+## 🚀 Installation  
+```bash
+# Clone the repository
+git clone https://github.com/MalikZeeshan1122/Financial-dashboard.git
+cd Financial-dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
